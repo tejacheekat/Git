@@ -1,0 +1,1 @@
+print("teja+Entri Course")
